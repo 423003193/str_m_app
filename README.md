@@ -1,4 +1,4 @@
-# 🌌 SecureCloud Task & Resource Manager (STRM)
+# SecureCloud Task & Resource Manager (STRM)
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
@@ -8,21 +8,21 @@
 
 ---
 
-## ✨ Features & Visuals
+## Features & Visuals
 
-### 🎀 Modern "Girly" Dark Aesthetic
+### Modern "Girly" Dark Aesthetic
 *   **Deep Contrast**: A rich deep purple-black background (`#1A1025`) paired with neon accents.
 *   **Vibrant Gradients**: Sleek **Hot Pink to Violet** gradients (`#FF6B9D` → `#C851E6`) used for progress rings, icons, and interactive elements.
 *   **Glassmorphism**: Translucent cards with subtle violet borders for a premium, lightweight feel.
 
-### 🎭 Animation & Interaction "Beyond"
+### Animation & Interaction "Beyond"
 *   **Staggered Entrance**: Task cards slide and fade in sequentially for a dynamic load experience.
 *   **Hero Transitions**: Visual continuity as icons morph from the dashboard into detail badges.
 *   **Micro-Interactions**: Haptic feedback paired with scale-on-press buttons for a tactile, responsive feel.
 *   **Gesture Driven**: Intuitive **Swipe-to-Complete** (Mint) and **Swipe-to-Delete** (Pink) actions on every task.
 *   **Animated Progress**: Real-time custom-painted progress rings with gradient arcs.
 
-### ⚙️ Core Functionality
+### Core Functionality
 *   **Hybrid Storage**: SQLite for instantaneous local access and Firestore for cloud redundancy.
 *   **Smart Sync**: Automatic detection of connectivity to bridge local drafts with your cloud account.
 *   **Live Data HUD**: Dedicated "Insights" tab with live **Weather** forecasting and **Currency Exchange** rates.
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 1.  **Flutter SDK**: [Install Flutter](https://docs.flutter.dev/get-started/install)
@@ -53,7 +53,7 @@ flutter run
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 *   **UI**: Flutter (Vanilla CSS-inspired Dark Mode)
 *   **State**: Riverpod (StateNotifier)
 *   **Auth**: Firebase Authentication
@@ -64,7 +64,7 @@ flutter run
 
 ---
 
-## 📊 Database Schema (SQLite)
+## Database Schema (SQLite)
 | Column | Type | Description |
 | :--- | :--- | :--- |
 | `id` | `INTEGER` | Primary Key (Auto-increment) |
@@ -76,5 +76,5 @@ flutter run
 
 ---
 
-## 📜 License
-Developed as part of the **Advanced Mobile Development** curriculum. 🌟
+## License
+Developed as part of the **Advanced Mobile Development** curriculum.
